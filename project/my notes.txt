@@ -1,0 +1,7 @@
+this is where when we write input_pullup
+
+but when we connect a 10k resistor externally to avoid float cdn we connect it btw 5v and btn 1:1/1:1.r ,
+then only we get voltage to A0.ie @ switch==normal cdn for this code(sensor value <500) a0 will intake 1023,and when button is in press codn we get 0 ,the stnd codn
+
+if we connect resistor btw 5v and 1:2/1:2.r the upper part of switch acts as an antenna and take stray electromagnetic signal so the led will be blinking continuously....
+I found this interesting and it much of my time to satisfy this curiosity, if somebody is seeing this try it once...😊
