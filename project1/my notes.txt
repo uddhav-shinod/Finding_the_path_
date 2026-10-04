@@ -1,0 +1,7 @@
+it is better to use the digital pin for this glorious purpose, its kind of complicated compared to digital pin ,and very prone to mistakes as the holding time of switch changes during uses, which the code highly depends upon, but it was fun 😁.
+
+i wont be uploading the digital pin circuit as i have already done that and I'm kind of sleepy.....in the digital circuit i have done
+1 press → LED ON
+2 presses → LED OFF
+long press → disco blink
+.......
